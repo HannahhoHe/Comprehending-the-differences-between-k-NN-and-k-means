@@ -2,7 +2,9 @@
 Machine Learning (ML) is a study of computer algorithms that allow a system to automate an analytical modeling without being explicitly programmed. It is a branch of artificial intelligence (AI) that learns from experience, makes decisions, and finds patterns in a massive amount of data (i.e. big data) with minimal human intervention. There are two types of ML, supervised and unsupervised. Supervised ML involves using labeled inputs in a training dataset, learning the function mapped to the outputs, and predicting outputs for the new inputs. Unsupervised ML, on the other hand, does not have labeled responses for the datasets. Instead of predicting associated outputs, unsupervised ML is used for exploratory data analysis such as seeking any hidden pattern or grouping in data. Depending on the algorithms, both types of ML can work with a regression and classification problem. 
 
 Examples
+
 •	Supervised learning — k-nearest neighbors (k-NN), random forest (RF), and super vector machine (SVM)
+
 •	Unsupervised learning (clustering or dimension reduction methods) — k-means clustering, hierarchical clustering, density-based spatial clustering of applications with noise (DBSCAN), and principal component analysis (PCA).  
 
 ![ML](pic.png)
