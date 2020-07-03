@@ -3,7 +3,6 @@ Machine Learning (ML) is a study of computer algorithms that allow a system to a
 
 Examples
 •	Supervised learning — k-nearest neighbors (k-NN), random forest (RF), and super vector machine (SVM)
-
 •	Unsupervised learning (clustering or dimension reduction methods) — k-means clustering, hierarchical clustering, density-based spatial clustering of applications with noise (DBSCAN), and principal component analysis (PCA).  
 
 ![ML](pic.png)
